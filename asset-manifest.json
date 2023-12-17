@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/relifgionn/static/css/main.aa2cc0ba.css",
+    "main.js": "/relifgionn/static/js/main.c12e79d7.js",
+    "static/media/header2.jpg": "/relifgionn/static/media/header2.4b27dabb8b6e0898d685.jpg",
+    "static/media/iklan.jpg": "/relifgionn/static/media/iklan.0ce7edde8764ae9610f9.jpg",
+    "static/media/baju10.jpg": "/relifgionn/static/media/baju10.37fe7741ca713aeeb189.jpg",
+    "static/media/series1.jpg": "/relifgionn/static/media/series1.3dad61e8638e0e487587.jpg",
+    "static/media/baju7.jpg": "/relifgionn/static/media/baju7.a7b0f59c18ea377ee4f0.jpg",
+    "static/media/baju3.jpg": "/relifgionn/static/media/baju3.bd58e1a20fa38896ef1f.jpg",
+    "static/media/baju5.jpg": "/relifgionn/static/media/baju5.42148108378289433f28.jpg",
+    "static/media/header4.jpg": "/relifgionn/static/media/header4.f78cc918d5087d9612f4.jpg",
+    "static/media/series3.jpg": "/relifgionn/static/media/series3.d2b20075e449daae405a.jpg",
+    "static/media/series2.jpg": "/relifgionn/static/media/series2.e32283acc4ffe46c8445.jpg",
+    "static/media/baju1.jpg": "/relifgionn/static/media/baju1.8fea78b283c8d4c5a248.jpg",
+    "static/media/header3.jpg": "/relifgionn/static/media/header3.6c5373f3b50f0130f5e3.jpg",
+    "static/media/header1.jpg": "/relifgionn/static/media/header1.6687aacb64bd50810850.jpg",
+    "static/media/baju9.jpg": "/relifgionn/static/media/baju9.e8d496ce6ea508a00e8a.jpg",
+    "static/media/baju6.jpg": "/relifgionn/static/media/baju6.e21874717362544d8822.jpg",
+    "static/media/baju8.jpg": "/relifgionn/static/media/baju8.ec096e64942fe7e9be35.jpg",
+    "static/media/tokopedia.png": "/relifgionn/static/media/tokopedia.b0c10c3a90eae7a3518f.png",
+    "static/media/shopee.png": "/relifgionn/static/media/shopee.f2800622c88d7c05cf6e.png",
+    "static/media/logo2.png": "/relifgionn/static/media/logo2.712cbbd798772e25546d.png",
+    "static/media/istyle.png": "/relifgionn/static/media/istyle.2208d115d77b79734f11.png",
+    "static/media/value3.png": "/relifgionn/static/media/value3.4bc0aaf5d9fc5b6e2b7c.png",
+    "static/media/colection6.jpeg": "/relifgionn/static/media/colection6.e09d7d2106bcebe00d15.jpeg",
+    "index.html": "/relifgionn/index.html",
+    "main.aa2cc0ba.css.map": "/relifgionn/static/css/main.aa2cc0ba.css.map",
+    "main.c12e79d7.js.map": "/relifgionn/static/js/main.c12e79d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2cc0ba.css",
+    "static/js/main.c12e79d7.js"
+  ]
+}
